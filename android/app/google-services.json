@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688626481802",
+    "project_id": "classdiary2",
+    "storage_bucket": "classdiary2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688626481802:android:9b98df8f239ea308838b73",
+        "android_client_info": {
+          "package_name": "com.underthebluesun.classdiary2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688626481802-dnirevpdnrhh4m7ofa9kvesl3sfcm5jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1xMNYMEjo5CCQ8IfM_Ub_t99ehaPn1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688626481802-dnirevpdnrhh4m7ofa9kvesl3sfcm5jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
