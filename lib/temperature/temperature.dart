@@ -125,7 +125,7 @@ class Temperature extends StatelessWidget {
                           /// 왼쪽 보상
                           Container(
                             alignment: Alignment.center,
-                            // color: Colors.blue,
+                            color: Colors.blue,
                             width: 200,
                             height: MediaQuery.of(context).size.height*0.65,
                             child: GridView.builder(
